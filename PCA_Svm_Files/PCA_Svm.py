@@ -1,3 +1,6 @@
+# Author: Amir Solnik
+# Date: 12 Jan 2019
+
 import random
 import pandas as pd
 import numpy as np
